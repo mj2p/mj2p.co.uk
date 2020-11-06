@@ -2,8 +2,8 @@
 MJ2P ltd designs and builds software services for private and business use. 
 MJ2P ltd has designed and built a range of services for several customers. These include
 
-* A proof-of-concept application and associated web service to set accessibility options on personal computers and to save them as an online profile. This allows disabled computer users to quickly and easily configure a computer to their specific needs. https://map-portal.herokuapp.com/
-* A web service to allow sharing of written and video case studies made by health care professionals. http://www.research-alfie.co.uk/
-* A web service to allow the viewing of blockchain information for a crypto-currency organisation. https://explorer.nubits.com
-* A Web service to control and monitor a suite of crypto-currency trading algorithms. https://overwatch.crypto-daio.co.uk
+* A proof-of-concept application and associated web service to set accessibility options on personal computers and to save them as an online profile. This allows disabled computer users to quickly and easily configure a computer to their specific needs. [link](https://map-portal.herokuapp.com/)
+* A web service to allow sharing of written and video case studies made by health care professionals. [link](http://www.research-alfie.co.uk/)
+* A web service to allow the viewing of blockchain information for a crypto-currency organisation. [link](https://explorer.nubits.com)
+* A Web service to control and monitor a suite of crypto-currency trading algorithms. [link](https://overwatch.crypto-daio.co.uk)
 
