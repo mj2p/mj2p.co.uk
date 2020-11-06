@@ -6,3 +6,4 @@ MJ2P ltd has designed and built a range of services for several customers. These
 * A web service to allow sharing of written and video case studies made by health care professionals. [link](http://www.research-alfie.co.uk/)
 * A web service to allow the viewing of blockchain information for a crypto-currency organisation. [link](https://explorer.nubits.com)
 * A time tracking cube with associated web service. [link](https://t-hedron.com)
+* A CLI tool for streaming music from a [Subsonic Music server](http://www.subsonic.org/pages/index.jsp). [link](https://github.com/mj2p/psub)
